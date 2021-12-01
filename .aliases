@@ -1,0 +1,13 @@
+alias getpass="openssl rand -base64 20"
+alias ipe='curl ipinfo.io/ip'
+alias ..='cd ..'
+alias ...='cd ../../../'
+alias ....='cd ../../../../'
+alias grep='grep --color=auto'
+alias egrep='egrep --color=auto'
+alias fgrep='fgrep --color=auto'
+alias ll='ls -alF'
+alias ls='ls --color=auto'
+alias vi=vim
+alias rm='rm -I --preserve-root'
+alias wget='wget -c'
